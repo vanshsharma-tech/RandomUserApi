@@ -23,6 +23,5 @@ It allows fetching user details in JSON format from a MongoDB database.
 - **Mongoose**
 - **dotenv**
 
----
 
 
