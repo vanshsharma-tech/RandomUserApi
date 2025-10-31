@@ -1,0 +1,1216 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "johndoe",
+    "avatar": "https://images.pexels.com/photos/7647386/pexels-photo-7647386.jpeg",
+    "password": "12345",
+    "email": "john@example.com",
+    "city": "New York",
+    "address": "123 Main Street, Manhattan",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Photography"
+      },
+      {
+        "id": 2,
+        "name": "Cycling"
+      },
+      {
+        "id": 3,
+        "name": "Cooking"
+      }
+    ],
+    "friends": [
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "username": "bobj"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "avatar": "https://images.pexels.com/photos/2122947/pexels-photo-2122947.jpeg",
+    "password": "abcde",
+    "email": "jane@example.com",
+    "city": "Los Angeles",
+    "address": "456 Sunset Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Painting"
+      },
+      {
+        "id": 2,
+        "name": "Yoga"
+      }
+    ],
+    "friends": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "username": "johndoe"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 3,
+    "name": "Robert Brown",
+    "username": "robbrown",
+    "avatar": "https://images.pexels.com/photos/5586512/pexels-photo-5586512.jpeg",
+    "password": "pass123",
+    "email": "robert@example.com",
+    "city": "Chicago",
+    "address": "789 Lake Shore Drive",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Running"
+      },
+      {
+        "id": 2,
+        "name": "Chess"
+      }
+    ],
+    "friends": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "username": "johndoe"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 4,
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "avatar": "https://images.pexels.com/photos/4050343/pexels-photo-4050343.jpeg",
+    "password": "alicepw",
+    "email": "alice@example.com",
+    "city": "Seattle",
+    "address": "321 Pine Street",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Reading"
+      },
+      {
+        "id": 2,
+        "name": "Hiking"
+      }
+    ],
+    "friends": [
+      {
+        "id": 3,
+        "name": "Robert Brown",
+        "username": "robbrown"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 5,
+    "name": "Michael Green",
+    "username": "mgreen",
+    "avatar": "https://images.pexels.com/photos/31649910/pexels-photo-31649910.jpeg",
+    "password": "mikepw",
+    "email": "michael@example.com",
+    "city": "Boston",
+    "address": "789 Beacon St",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Cooking"
+      },
+      {
+        "id": 2,
+        "name": "Traveling"
+      }
+    ],
+    "friends": [
+      {
+        "id": 4,
+        "name": "Alice Johnson",
+        "username": "alicej"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 6,
+    "name": "Sarah Lee",
+    "username": "sarahlee",
+    "avatar": "https://images.pexels.com/photos/7718640/pexels-photo-7718640.jpeg",
+    "password": "lee123",
+    "email": "sarah@example.com",
+    "city": "Houston",
+    "address": "2100 Bay Area Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Singing"
+      },
+      {
+        "id": 2,
+        "name": "Gardening"
+      }
+    ],
+    "friends": [
+      {
+        "id": 5,
+        "name": "Michael Green",
+        "username": "mgreen"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 7,
+    "name": "Daniel Adams",
+    "username": "danieladams",
+    "avatar": "https://images.pexels.com/photos/2709563/pexels-photo-2709563.jpeg",
+    "password": "danielpw",
+    "email": "daniel@example.com",
+    "city": "Miami",
+    "address": "742 Ocean Drive",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Gaming"
+      },
+      {
+        "id": 2,
+        "name": "Surfing"
+      }
+    ],
+    "friends": [
+      {
+        "id": 6,
+        "name": "Sarah Lee",
+        "username": "sarahlee"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 8,
+    "name": "Laura Wilson",
+    "username": "laurawilson",
+    "avatar": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg",
+    "password": "laurapw",
+    "email": "laura@example.com",
+    "city": "Denver",
+    "address": "654 Mountain Ave",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Skiing"
+      },
+      {
+        "id": 2,
+        "name": "Drawing"
+      }
+    ],
+    "friends": [
+      {
+        "id": 7,
+        "name": "Daniel Adams",
+        "username": "danieladams"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 9,
+    "name": "David King",
+    "username": "dking",
+    "avatar": "https://images.pexels.com/photos/2743754/pexels-photo-2743754.jpeg",
+    "password": "kingpw",
+    "email": "david@example.com",
+    "city": "Dallas",
+    "address": "987 Elm Street",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Fishing"
+      },
+      {
+        "id": 2,
+        "name": "Photography"
+      }
+    ],
+    "friends": [
+      {
+        "id": 8,
+        "name": "Laura Wilson",
+        "username": "laurawilson"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 10,
+    "name": "Emma Clark",
+    "username": "emmaclark",
+    "avatar": "https://images.pexels.com/photos/10419116/pexels-photo-10419116.jpeg",
+    "password": "emmapw",
+    "email": "emma@example.com",
+    "city": "San Francisco",
+    "address": "234 Market St",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Dancing"
+      },
+      {
+        "id": 2,
+        "name": "Yoga"
+      }
+    ],
+    "friends": [
+      {
+        "id": 9,
+        "name": "David King",
+        "username": "dking"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 11,
+    "name": "Olivia Martin",
+    "username": "oliviamartin",
+    "avatar": "https://images.pexels.com/photos/450214/pexels-photo-450214.jpeg",
+    "password": "olivia123",
+    "email": "olivia@example.com",
+    "city": "Portland",
+    "address": "567 River Road",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Photography"
+      },
+      {
+        "id": 2,
+        "name": "Running"
+      }
+    ],
+    "friends": [
+      {
+        "id": 10,
+        "name": "Emma Clark",
+        "username": "emmaclark"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 12,
+    "name": "James White",
+    "username": "jameswhite",
+    "avatar": "https://images.pexels.com/photos/7845284/pexels-photo-7845284.jpeg",
+    "password": "whitepw",
+    "email": "james@example.com",
+    "city": "Atlanta",
+    "address": "876 Peachtree St",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Cooking"
+      },
+      {
+        "id": 2,
+        "name": "Swimming"
+      }
+    ],
+    "friends": [
+      {
+        "id": 11,
+        "name": "Olivia Martin",
+        "username": "oliviamartin"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 13,
+    "name": "Sophia Carter",
+    "username": "sophiac",
+    "avatar": "https://images.pexels.com/photos/10041272/pexels-photo-10041272.jpeg",
+    "password": "sophiapw",
+    "email": "sophia@example.com",
+    "city": "Phoenix",
+    "address": "214 Desert Lane",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Drawing"
+      },
+      {
+        "id": 2,
+        "name": "Cycling"
+      }
+    ],
+    "friends": [
+      {
+        "id": 12,
+        "name": "James White",
+        "username": "jameswhite"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 14,
+    "name": "William Scott",
+    "username": "wscott",
+    "avatar": "https://images.pexels.com/photos/4962974/pexels-photo-4962974.jpeg",
+    "password": "willpw",
+    "email": "william@example.com",
+    "city": "Philadelphia",
+    "address": "132 Walnut St",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Hiking"
+      },
+      {
+        "id": 2,
+        "name": "Chess"
+      }
+    ],
+    "friends": [
+      {
+        "id": 13,
+        "name": "Sophia Carter",
+        "username": "sophiac"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 15,
+    "name": "Isabella Turner",
+    "username": "isabellat",
+    "avatar": "https://images.pexels.com/photos/2878375/pexels-photo-2878375.jpeg",
+    "password": "isabpw",
+    "email": "isabella@example.com",
+    "city": "Minneapolis",
+    "address": "555 Lakeview Drive",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Yoga"
+      },
+      {
+        "id": 2,
+        "name": "Painting"
+      }
+    ],
+    "friends": [
+      {
+        "id": 14,
+        "name": "William Scott",
+        "username": "wscott"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 16,
+    "name": "Ethan Walker",
+    "username": "ethanw",
+    "avatar": "https://images.pexels.com/photos/6765066/pexels-photo-6765066.jpeg",
+    "password": "ethanpw",
+    "email": "ethan@example.com",
+    "city": "Austin",
+    "address": "900 Barton Springs Rd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Coding"
+      },
+      {
+        "id": 2,
+        "name": "Guitar"
+      }
+    ],
+    "friends": [
+      {
+        "id": 15,
+        "name": "Isabella Turner",
+        "username": "isabellat"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 17,
+    "name": "Charlotte Harris",
+    "username": "charharris",
+    "avatar": "https://images.pexels.com/photos/5452292/pexels-photo-5452292.jpeg",
+    "password": "charpw",
+    "email": "charlotte@example.com",
+    "city": "San Diego",
+    "address": "300 Palm Avenue",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Reading"
+      },
+      {
+        "id": 2,
+        "name": "Writing"
+      }
+    ],
+    "friends": [
+      {
+        "id": 16,
+        "name": "Ethan Walker",
+        "username": "ethanw"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 18,
+    "name": "Benjamin Hall",
+    "username": "benhall",
+    "avatar": "https://images.pexels.com/photos/7109065/pexels-photo-7109065.jpeg",
+    "password": "benpw",
+    "email": "benjamin@example.com",
+    "city": "Las Vegas",
+    "address": "808 Neon Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Poker"
+      },
+      {
+        "id": 2,
+        "name": "Traveling"
+      }
+    ],
+    "friends": [
+      {
+        "id": 17,
+        "name": "Charlotte Harris",
+        "username": "charharris"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 19,
+    "name": "Amelia Rivera",
+    "username": "ameliar",
+    "avatar": "https://images.pexels.com/photos/27946709/pexels-photo-27946709.jpeg",
+    "password": "amelpw",
+    "email": "amelia@example.com",
+    "city": "Orlando",
+    "address": "145 Palm Tree Lane",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Baking"
+      },
+      {
+        "id": 2,
+        "name": "Dancing"
+      }
+    ],
+    "friends": [
+      {
+        "id": 18,
+        "name": "Benjamin Hall",
+        "username": "benhall"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 20,
+    "name": "Alexander Lopez",
+    "username": "alexlopez",
+    "avatar": "https://images.pexels.com/photos/8872653/pexels-photo-8872653.jpeg",
+    "password": "alexpw",
+    "email": "alexander@example.com",
+    "city": "Charlotte",
+    "address": "221 Elmwood Drive",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Football"
+      },
+      {
+        "id": 2,
+        "name": "Gaming"
+      }
+    ],
+    "friends": [
+      {
+        "id": 19,
+        "name": "Amelia Rivera",
+        "username": "ameliar"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 21,
+    "name": "Grace Mitchell",
+    "username": "gracem",
+    "avatar": "https://images.pexels.com/photos/6981087/pexels-photo-6981087.jpeg",
+    "password": "gracepw",
+    "email": "grace@example.com",
+    "city": "Cleveland",
+    "address": "160 Hillcrest Rd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Knitting"
+      },
+      {
+        "id": 2,
+        "name": "Traveling"
+      }
+    ],
+    "friends": [
+      {
+        "id": 20,
+        "name": "Alexander Lopez",
+        "username": "alexlopez"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 22,
+    "name": "Henry Young",
+    "username": "henryy",
+    "avatar": "https://images.pexels.com/photos/8382592/pexels-photo-8382592.jpeg",
+    "password": "henrypw",
+    "email": "henry@example.com",
+    "city": "Kansas City",
+    "address": "808 Main Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Photography"
+      },
+      {
+        "id": 2,
+        "name": "Cooking"
+      }
+    ],
+    "friends": [
+      {
+        "id": 21,
+        "name": "Grace Mitchell",
+        "username": "gracem"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 23,
+    "name": "Chloe Bennett",
+    "username": "chloeb",
+    "avatar": "https://images.pexels.com/photos/5778422/pexels-photo-5778422.jpeg",
+    "password": "chloepw",
+    "email": "chloe@example.com",
+    "city": "Indianapolis",
+    "address": "233 Downtown Street",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Yoga"
+      },
+      {
+        "id": 2,
+        "name": "Swimming"
+      }
+    ],
+    "friends": [
+      {
+        "id": 22,
+        "name": "Henry Young",
+        "username": "henryy"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 24,
+    "name": "Lucie Gray",
+    "username": "lucasg",
+    "avatar": "https://images.pexels.com/photos/12400329/pexels-photo-12400329.jpeg",
+    "password": "lucaspw",
+    "email": "lucie@example.com",
+    "city": "Nashville",
+    "address": "919 Music Row",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Music"
+      },
+      {
+        "id": 2,
+        "name": "Skating"
+      }
+    ],
+    "friends": [
+      {
+        "id": 23,
+        "name": "Chloe Bennett",
+        "username": "chloeb"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 25,
+    "name": "Ella Parker",
+    "username": "ellap",
+    "avatar": "https://images.pexels.com/photos/7205937/pexels-photo-7205937.jpeg",
+    "password": "ellapw",
+    "email": "ella@example.com",
+    "city": "Columbus",
+    "address": "404 City Center Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Photography"
+      },
+      {
+        "id": 2,
+        "name": "Jogging"
+      }
+    ],
+    "friends": [
+      {
+        "id": 24,
+        "name": "Lucie Gray",
+        "username": "lucasg"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 26,
+    "name": "Noah Brooks",
+    "username": "noahb",
+    "avatar": "https://images.pexels.com/photos/7870891/pexels-photo-7870891.jpeg",
+    "password": "noahpw",
+    "email": "noah@example.com",
+    "city": "Sacramento",
+    "address": "155 River View Rd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Fishing"
+      },
+      {
+        "id": 2,
+        "name": "Photography"
+      }
+    ],
+    "friends": [
+      {
+        "id": 25,
+        "name": "Ella Parker",
+        "username": "ellap"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 27,
+    "name": "Zoe Foster",
+    "username": "zoef",
+    "avatar": "https://images.pexels.com/photos/7959778/pexels-photo-7959778.jpeg",
+    "password": "zoepw",
+    "email": "zoe@example.com",
+    "city": "Tampa",
+    "address": "912 Sunshine Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Reading"
+      },
+      {
+        "id": 2,
+        "name": "Yoga"
+      }
+    ],
+    "friends": [
+      {
+        "id": 26,
+        "name": "Noah Brooks",
+        "username": "noahb"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 28,
+    "name": "Jack Cooper",
+    "username": "jackc",
+    "avatar": "https://images.pexels.com/photos/8040903/pexels-photo-8040903.jpeg",
+    "password": "jackpw",
+    "email": "jack@example.com",
+    "city": "Baltimore",
+    "address": "302 Harbor St",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Running"
+      },
+      {
+        "id": 2,
+        "name": "Traveling"
+      }
+    ],
+    "friends": [
+      {
+        "id": 27,
+        "name": "Zoe Foster",
+        "username": "zoef"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 29,
+    "name": "Liam Torres",
+    "username": "liamt",
+    "avatar": "https://images.pexels.com/photos/13801841/pexels-photo-13801841.jpeg",
+    "password": "liampw",
+    "email": "liam@example.com",
+    "city": "Raleigh",
+    "address": "754 Maple Ave",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Football"
+      },
+      {
+        "id": 2,
+        "name": "Gaming"
+      }
+    ],
+    "friends": [
+      {
+        "id": 28,
+        "name": "Jack Cooper",
+        "username": "jackc"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 30,
+    "name": "Mia Scott",
+    "username": "mias",
+    "avatar": "https://images.pexels.com/photos/8871896/pexels-photo-8871896.jpeg",
+    "password": "miapw",
+    "email": "mia@example.com",
+    "city": "Omaha",
+    "address": "200 Prairie Lane",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Cooking"
+      },
+      {
+        "id": 2,
+        "name": "Gardening"
+      }
+    ],
+    "friends": [
+      {
+        "id": 29,
+        "name": "Liam Torres",
+        "username": "liamt"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 31,
+    "name": "Evelyn Reed",
+    "username": "evelynr",
+    "avatar": "https://images.pexels.com/photos/7680205/pexels-photo-7680205.jpeg",
+    "password": "evelynpw",
+    "email": "evelyn@example.com",
+    "city": "Salt Lake City",
+    "address": "744 Canyon Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Painting"
+      },
+      {
+        "id": 2,
+        "name": "Jogging"
+      }
+    ],
+    "friends": [
+      {
+        "id": 30,
+        "name": "Mia Scott",
+        "username": "mias"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 32,
+    "name": "Logan Evans",
+    "username": "logane",
+    "avatar": "https://images.pexels.com/photos/10319812/pexels-photo-10319812.jpeg",
+    "password": "logpw",
+    "email": "logan@example.com",
+    "city": "Milwaukee",
+    "address": "655 Riverfront Dr",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Cycling"
+      },
+      {
+        "id": 2,
+        "name": "Gaming"
+      }
+    ],
+    "friends": [
+      {
+        "id": 31,
+        "name": "Evelyn Reed",
+        "username": "evelynr"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 33,
+    "name": "Harper Diaz",
+    "username": "harperd",
+    "avatar": "https://images.pexels.com/photos/5778255/pexels-photo-5778255.jpeg",
+    "password": "harpw",
+    "email": "harper@example.com",
+    "city": "Tucson",
+    "address": "120 Desert Flower Rd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Dancing"
+      },
+      {
+        "id": 2,
+        "name": "Writing"
+      }
+    ],
+    "friends": [
+      {
+        "id": 32,
+        "name": "Logan Evans",
+        "username": "logane"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 34,
+    "name": "Mason Bell",
+    "username": "masonb",
+    "avatar": "https://images.pexels.com/photos/13801786/pexels-photo-13801786.jpeg",
+    "password": "masonpw",
+    "email": "mason@example.com",
+    "city": "Louisville",
+    "address": "844 Derby St",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Skating"
+      },
+      {
+        "id": 2,
+        "name": "Coding"
+      }
+    ],
+    "friends": [
+      {
+        "id": 33,
+        "name": "Harper Diaz",
+        "username": "harperd"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 35,
+    "name": "Ava Collins",
+    "username": "avac",
+    "avatar": "https://images.pexels.com/photos/17050919/pexels-photo-17050919.jpeg",
+    "password": "avapw",
+    "email": "ava@example.com",
+    "city": "Reno",
+    "address": "423 Sierra Blvd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Hiking"
+      },
+      {
+        "id": 2,
+        "name": "Swimming"
+      }
+    ],
+    "friends": [
+      {
+        "id": 34,
+        "name": "Mason Bell",
+        "username": "masonb"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 36,
+    "name": "Sebastian Reed",
+    "username": "sebasr",
+    "avatar": "https://images.pexels.com/photos/8851632/pexels-photo-8851632.jpeg",
+    "password": "sebaspw",
+    "email": "sebastian@example.com",
+    "city": "Boise",
+    "address": "22 Highland Rd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Skiing"
+      },
+      {
+        "id": 2,
+        "name": "Music"
+      }
+    ],
+    "friends": [
+      {
+        "id": 35,
+        "name": "Ava Collins",
+        "username": "avac"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 37,
+    "name": "Ella Barnes",
+    "username": "ellab",
+    "avatar": "https://images.pexels.com/photos/7223041/pexels-photo-7223041.jpeg",
+    "password": "ellabpw",
+    "email": "ellab@example.com",
+    "city": "Madison",
+    "address": "640 Forest Way",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Gardening"
+      },
+      {
+        "id": 2,
+        "name": "Drawing"
+      }
+    ],
+    "friends": [
+      {
+        "id": 36,
+        "name": "Sebastian Reed",
+        "username": "sebasr"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 38,
+    "name": "Carter Hill",
+    "username": "carterh",
+    "avatar": "https://images.pexels.com/photos/18269632/pexels-photo-18269632.jpeg",
+    "password": "carterpw",
+    "email": "carter@example.com",
+    "city": "Richmond",
+    "address": "301 Valley Dr",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Golf"
+      },
+      {
+        "id": 2,
+        "name": "Reading"
+      }
+    ],
+    "friends": [
+      {
+        "id": 37,
+        "name": "Ella Barnes",
+        "username": "ellab"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 39,
+    "name": "Victoria Reed",
+    "username": "victoriar",
+    "avatar": "https://images.pexels.com/photos/12089085/pexels-photo-12089085.jpeg",
+    "password": "vicpw",
+    "email": "victoria@example.com",
+    "city": "Tallahassee",
+    "address": "145 Palm Ave",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Photography"
+      },
+      {
+        "id": 2,
+        "name": "Cooking"
+      }
+    ],
+    "friends": [
+      {
+        "id": 38,
+        "name": "Carter Hill",
+        "username": "carterh"
+      }
+    ],
+    "gender": "Female",
+    "statusCode": 200,
+    "success": true
+  },
+  {
+    "id": 40,
+    "name": "Owen Cooper",
+    "username": "owencoop",
+    "avatar": "https://images.pexels.com/photos/7205317/pexels-photo-7205317.jpeg",
+    "password": "owenpw",
+    "email": "owen@example.com",
+    "city": "Albuquerque",
+    "address": "250 Sand Dune Rd",
+    "hobbies": [
+      {
+        "id": 1,
+        "name": "Running"
+      },
+      {
+        "id": 2,
+        "name": "Photography"
+      }
+    ],
+    "friends": [
+      {
+        "id": 39,
+        "name": "Victoria Reed",
+        "username": "victoriar"
+      }
+    ],
+    "gender": "Male",
+    "statusCode": 200,
+    "success": true
+  }
+]
